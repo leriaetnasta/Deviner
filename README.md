@@ -1,2 +1,2 @@
 # Deviner
-A classic game of guessing the correct number written in C.
+A classic game written in C.
